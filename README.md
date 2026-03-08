@@ -5,8 +5,8 @@
 Tourism is often discussed in terms of visitor numbers and total spending. 
 However, understanding the economic structure of tourism requires a broader framework.
 
-This project analyzes Japan’s tourism economy using the Tourism Satellite Account (TSA) for 2023, 
-focusing on tourism consumption, industry structure, employment, and capital formation.
+This project analyzes Japan’s tourism economy using the Tourism Satellite Account (TSA) for 2023.
+The analysis focuses on internal tourism consumption and examines how tourism spending is distributed across different tourism-related products.
 
 ## Research Questions
 - How large is internal tourism consumption in Japan?
