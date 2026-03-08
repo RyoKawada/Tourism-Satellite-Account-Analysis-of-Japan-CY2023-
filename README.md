@@ -1,6 +1,6 @@
-# Tourism Satellite Account Analysis of Japan: Structure of Consumption, Employment, and Investment in 2023
-### Analyzed by: Passed the CPA Exam (Japan) | Tourism Economics Data Analyst
+# Tourism Satellite Account Analysis of Japan: For now, we are focusing on consumption, and will cover employment and investment in future chapters.
 
+Structure of Consumption, Employment, and Investment in 2023
 ## Overview
 Tourism is often discussed in terms of visitor numbers and total spending. 
 However, understanding the economic structure of tourism requires a broader framework.
