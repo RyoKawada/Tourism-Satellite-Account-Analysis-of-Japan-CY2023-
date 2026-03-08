@@ -14,9 +14,9 @@ The analysis focuses on internal tourism consumption and examines how tourism sp
 - How important is tourism for employment?
 - How does tourism investment appear across industries?
 
-## Data
-Japan Tourism Agency (JTA)  
-Tourism Satellite Account Tables (CY2023)
+## Data Source
+Japan Tourism Agency (JTA)
+Tourism Satellite Account (TSA) Tables 2023
 
 ## Project Structure
 data/ : TSA tables (Excel)  
@@ -26,3 +26,17 @@ README.md : project overview
 ## Future Work
 After completing the structural analysis of 2023, 
 the project will expand to time-series analysis using historical TSA data.
+
+## Key Findings
+- Accommodation services represent the largest component of tourism consumption.
+- Food and beverage services also account for a large share of tourism demand.
+- Passenger transportation services, including air and railway transport, are major contributors.
+
+Overall, tourism spending in Japan is strongly concentrated in three sectors:
+accommodation, food services, and transportation.
+
+Additional analysis compares inbound tourism expenditure and domestic tourism expenditure across tourism-related products.
+
+The results show that domestic tourism accounts for the majority of tourism consumption in Japan.
+However, inbound tourism plays an important role in Food and beverage serving and Accommodation sectors.
+
