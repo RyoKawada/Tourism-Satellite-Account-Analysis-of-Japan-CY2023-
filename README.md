@@ -1,4 +1,5 @@
-# Tourism Satellite Account Analysis of Japan: For now, we are focusing on consumption, and will cover employment and investment in future chapters.
+# Tourism Satellite Account Analysis of Japan:
+Current focus on tourism consumption, with future analysis covering employment and investment.
 
 Structure of Consumption, Employment, and Investment in 2023
 ## Overview
