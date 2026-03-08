@@ -9,9 +9,9 @@ This project analyzes Japan’s tourism economy using the Tourism Satellite Acco
 The analysis focuses on internal tourism consumption and examines how tourism spending is distributed across different tourism-related products.
 
 ## Research Questions
-• Which tourism products account for the largest share of tourism consumption in Japan?
-• How is tourism spending distributed across tourism-related industries?
-• What is the structure of inbound vs domestic tourism consumption?
+- Which tourism products account for the largest share of tourism consumption in Japan?
+- How is tourism spending distributed across tourism-related industries?
+- What is the structure of inbound vs domestic tourism consumption?
 
 ## Data Source
 Japan Tourism Agency (JTA)
