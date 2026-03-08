@@ -23,6 +23,25 @@ Japan's tourism economy in 2023 appears to be driven by demand for inbound trave
 - Table 7: Employment in the Tourism Industry
 - Table 8: Gross Fixed Capital Formation in the Tourism Industry
 
+## Internal Tourism Consumption: Big Picture
+Japan's tourism consumption in 2023 will be approximately 29.4 trillion yen, the majority of which will be supported by domestic tourism.
+
+## Product Breakdown: Where Does the Money Go?
+
+## Inbound vs Domestic: Structural Comparison
+
+## Employment in Tourism Industries
+
+## Capital Formation: Investment Side of Tourism
+Tourism is linked not only to consumption in that year, but also to capital investment in preparation for future demand.
+
+## Discussion / Implications
+- Domestic tourism, not just inbound tourism, is the foundation.
+- Tourist spending is concentrated on accommodation, food and beverage, and transportation.
+- Tourism also contributes significantly to employment.
+- Tourism investment extends to infrastructure and buildings.
+- Therefore, tourism policy needs to look not only at the number of visitors but also at industry linkages and employment.
+
 ## Methods
 - Data preprocessing with Python (pandas)
 - Correlation analysis
