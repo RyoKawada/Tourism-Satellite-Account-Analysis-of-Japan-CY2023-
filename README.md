@@ -1,69 +1,28 @@
 # Tourism Satellite Account Analysis of Japan: Structure of Consumption, Employment, and Investment in 2023
 ### Analyzed by: Passed the CPA Exam (Japan) | Tourism Economics Data Analyst
-How tourism consumption connects to industry structure, employment, and capital formation in Japan.
 
-## Introduction
-Traditional tourism statistics often focus on visitor counts or total spending.
-However, Tourism Satellite Accounts make it possible to connect tourism demand with industry output, employment, and capital formation.
-This notebook analyzes Japan’s 2023 TSA to understand the structure of the tourism economy.
+## Overview
+Tourism is often discussed in terms of visitor numbers and total spending. 
+However, understanding the economic structure of tourism requires a broader framework.
 
-## What is TSA（Tourism Satellite Account）?
-Statistics based on international standards (UNWTO) that comprehensively analyze and estimate the economic impact (GDP, employment, etc.) of tourism on the Japanese economy.
+This project analyzes Japan’s tourism economy using the Tourism Satellite Account (TSA) for 2023, 
+focusing on tourism consumption, industry structure, employment, and capital formation.
 
-## Question
-Japan's tourism economy in 2023 appears to be driven by demand for inbound travel, but to what extent will it actually be supported by domestic tourism?
+## Research Questions
+- How large is internal tourism consumption in Japan?
+- What industries benefit most from tourism spending?
+- How important is tourism for employment?
+- How does tourism investment appear across industries?
 
-## Data Sources
-- Japan Tourism Agency
+## Data
+Japan Tourism Agency (JTA)  
+Tourism Satellite Account Tables (CY2023)
 
-## Data Overview
-- Table 1: Domestic Tourism Expenditures by Foreign Visitors to Japan
-- Table 2: Domestic Tourism Expenditures by Japanese Residents
-- Table 4: Internal Tourism Consumption
-- Table 7: Employment in the Tourism Industry
-- Table 8: Gross Fixed Capital Formation in the Tourism Industry
+## Project Structure
+data/ : TSA tables (Excel)  
+notebooks/ : analysis notebooks  
+README.md : project overview  
 
-## Internal Tourism Consumption: Big Picture
-Japan's tourism consumption in 2023 will be approximately 29.4 trillion yen, the majority of which will be supported by domestic tourism.
-
-## Product Breakdown: Where Does the Money Go?
-
-## Inbound vs Domestic: Structural Comparison
-
-## Employment in Tourism Industries
-
-## Capital Formation: Investment Side of Tourism
-Tourism is linked not only to consumption in that year, but also to capital investment in preparation for future demand.
-
-## Discussion / Implications
-- Domestic tourism, not just inbound tourism, is the foundation.
-- Tourist spending is concentrated on accommodation, food and beverage, and transportation.
-- Tourism also contributes significantly to employment.
-- Tourism investment extends to infrastructure and buildings.
-- Therefore, tourism policy needs to look not only at the number of visitors but also at industry linkages and employment.
-
-## Methods
-- Data preprocessing with Python (pandas)
-- Correlation analysis
-- Visualization
-
-## Key Findings
-## Visualization
-## Conclusion
-### Requirements
-pandas, matplotlib, seaborn
-
-分析必須
-内部観光消費の内訳
-国内・訪日・その他
-内部観光消費の項目別上位10
-宿泊、飲食、航空、鉄道など
-訪日 vs 国内 の項目別構成比比較
-stacked bar でもOK
-観光産業の就業者数
-産業別棒グラフ
-観光産業の総固定資本形成
-産業別または資産種類別棒グラフ
-
-Phase 1: 単年の構造分析
-Phase 2: 可能なら過去年と結合して比較分析
+## Future Work
+After completing the structural analysis of 2023, 
+the project will expand to time-series analysis using historical TSA data.
