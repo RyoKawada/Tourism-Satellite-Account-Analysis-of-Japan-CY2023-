@@ -1,7 +1,6 @@
 # Tourism Satellite Account Analysis of Japan:
 Current focus on tourism consumption, with future analysis covering employment and investment.
 
-Structure of Consumption, Employment, and Investment in 2023
 ## Overview
 Tourism is often discussed in terms of visitor numbers and total spending. 
 However, understanding the economic structure of tourism requires a broader framework.
