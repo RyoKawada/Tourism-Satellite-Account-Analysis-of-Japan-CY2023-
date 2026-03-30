@@ -31,6 +31,10 @@ the project will expand to time-series analysis using historical TSA data.
 - Food and beverage services also account for a large share of tourism demand.
 - Passenger transportation services, including air and railway transport, are major contributors.
 
+## Tourism-dependent industries
+Tourism-dependent industries such as accommodation and passenger transport show significantly higher tourism ratios, while retail and cultural services exhibit lower dependence.
+![Tourism Dependency by Industry](tourism_dependency.png)
+
 Overall, tourism spending in Japan is strongly concentrated in three sectors:
 accommodation, food services, and transportation.
 
