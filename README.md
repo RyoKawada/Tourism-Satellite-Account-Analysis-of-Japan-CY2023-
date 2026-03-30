@@ -32,7 +32,8 @@ the project will expand to time-series analysis using historical TSA data.
 - Passenger transportation services, including air and railway transport, are major contributors.
 
 ## Tourism-dependent industries
-Tourism-dependent industries such as accommodation and passenger transport show significantly higher tourism ratios, while retail and cultural services exhibit lower dependence.
+Accommodation and passenger transport services show the highest tourism ratios, indicating strong dependence on tourism demand.  
+By contrast, cultural and reservation-related services exhibit relatively lower tourism dependence.
 ![Tourism Dependency by Industry](tourism_dependency.png)
 
 Overall, tourism spending in Japan is strongly concentrated in three sectors:
