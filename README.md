@@ -35,8 +35,16 @@ the project will expand to time-series analysis using historical TSA data.
 The figure below shows the tourism ratio across major tourism-related industries.
 Accommodation and passenger transport services show the highest tourism ratios, indicating strong dependence on tourism demand.  
 By contrast, cultural and reservation-related services exhibit relatively lower tourism dependence.
+
+### Tourism Dependency by Industry
 ![Tourism Dependency by Industry](tourism_dependency.png)
 These results highlight that accommodation and passenger transport are the most tourism-dependent sectors in the economy.
+
+### Tourism GVA by Industry
+![Tourism GVA by Industry](gva.png)
+This chart shows tourism gross value added (GVA) by industry based on Japan's Tourism Satellite Account (Table 6b).
+Accommodation generates the largest share of value, followed by transport and food services.
+
 
 Overall, tourism spending in Japan is strongly concentrated in three sectors:
 accommodation, food services, and transportation.
