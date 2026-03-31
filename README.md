@@ -42,8 +42,8 @@ These results highlight that accommodation and passenger transport are the most 
 
 ### Tourism GVA by Industry
 ![Tourism GVA by Industry](gva.png)
-This chart shows tourism gross value added (GVA) by industry based on Japan's Tourism Satellite Account (Table 6b).
-Accommodation generates the largest share of value, followed by transport and food services.
+This chart shows tourism gross value added (GVA) by industry based on Japan's Tourism Satellite Account (Table 6b).  
+Accommodation generates the largest share of value, followed by transport and food services, indicating that tourism value creation is concentrated in these sectors.
 
 
 Overall, tourism spending in Japan is strongly concentrated in three sectors:
