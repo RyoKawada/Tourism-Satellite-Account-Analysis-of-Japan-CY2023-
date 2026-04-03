@@ -12,6 +12,17 @@ This project analyzes Japan’s tourism economy using the Tourism Satellite Acco
 Japan Tourism Agency (JTA)
 Tourism Satellite Account (TSA) Tables 2023
 
+## Key Findings
+Accommodation shows both high GVA and high tourism dependency, acting as the core tourism industry.
+
+Some industries (e.g., rail transport, food & beverage) have large economic size but only moderate tourism dependency.
+
+Others (e.g., air transport, vacation homes) show high tourism dependency despite smaller economic size.
+
+The correlation between GVA and tourism ratio is low (0.27), indicating a weak relationship.
+
+👉 Industry size and tourism dependency are largely independent.
+
 ## Tourism-dependent industries
 The figure below shows the tourism ratio across major tourism-related industries.
 Accommodation and passenger transport services show the highest tourism ratios, indicating strong dependence on tourism demand.  
