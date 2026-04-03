@@ -17,6 +17,8 @@ Accommodation shows both high GVA and high tourism dependency, acting as the cor
 
 👉 Industry size and tourism dependency are largely independent.
 
+
+
 ## Tourism-dependent industries
 The figure below shows the tourism ratio across major tourism-related industries.
 Accommodation and passenger transport services show the highest tourism ratios, indicating strong dependence on tourism demand.  
@@ -34,3 +36,14 @@ Accommodation generates the largest share of value, followed by food services an
 ###  Tourism ratio vs GVA
 ![Tourism ratio vs GVA](tourism_ratio_vs_gva.png)
 
+Accommodation
+→ The core of tourism demand, with the largest scale and level of dependence.
+
+Rail transport
+→ A hybrid structure supported by both domestic and tourism demand.
+
+Air transport
+→ Highly dependent on tourism, but limited economic scale.
+
+Water transport
+→ Specialized for tourism, but extremely small market size (outlier).
