@@ -27,9 +27,14 @@ After completing the structural analysis of 2023,
 the project will expand to time-series analysis using historical TSA data.
 
 ## Key Findings
-- Accommodation services represent the largest component of tourism consumption.
-- Food and beverage services also account for a large share of tourism demand.
-- Passenger transportation services, including air and railway transport, are major contributors.
+High GVA × High Tourism Ratio
+→ Core industries heavily dependent on tourism demand (e.g., accommodation)
+High GVA × Low Tourism Ratio
+→ Supporting industries with a large economic scale but low dependence on tourism
+→ Indirect impact of tourism
+Low GVA × High Tourism Ratio
+→ Small-scale niche industries specializing in tourism
+→ Sensitive to fluctuations in foreign demand
 
 ## Tourism-dependent industries
 The figure below shows the tourism ratio across major tourism-related industries.
