@@ -45,7 +45,7 @@ This chart shows tourism gross value added (GVA) by industry based on Japan's To
 Accommodation generates the largest share of value, followed by food services and transport, indicating that tourism value creation is concentrated in these sectors.
 
 ###  Tourism ratio vs GVA
-![Tourism ratio vs GVA](tourism_ratio_vs_gva.png)
+![Tourism ratio vs GVA](tourism_gdp_by_industry.png)
 
 Accommodation
 → The core of tourism demand, with the largest scale and highest dependency.
