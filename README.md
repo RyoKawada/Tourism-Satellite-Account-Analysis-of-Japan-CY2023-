@@ -27,15 +27,15 @@ After completing the structural analysis of 2023,
 the project will expand to time-series analysis using historical TSA data.
 
 ## Key Findings
-##### High GVA × High Tourism Ratio
+#### High GVA × High Tourism Ratio
 → Core industries heavily dependent on tourism demand (e.g., accommodation)
 
-##### High GVA × Low Tourism Ratio
+#### High GVA × Low Tourism Ratio
 → Supporting industries with a large economic scale but low dependence on tourism
 
 → Indirect impact of tourism
 
-##### Low GVA × High Tourism Ratio
+#### Low GVA × High Tourism Ratio
 → Small-scale niche industries specializing in tourism
 
 → Sensitive to fluctuations in foreign demand
