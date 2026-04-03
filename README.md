@@ -13,11 +13,12 @@ Japan Tourism Agency (JTA)
 Tourism Satellite Account (TSA) Tables 2023
 
 ## Key Findings
-Accommodation shows both high GVA and high tourism dependency, acting as the core tourism industry.Some industries (e.g., rail transport, food & beverage) have large economic size but only moderate tourism dependency.Others (e.g., air transport, vacation homes) show high tourism dependency despite smaller economic size.The correlation between GVA and tourism ratio is low (0.27), indicating a weak relationship.
+Accommodation shows both high GVA and high tourism dependency, acting as the core tourism industry.
+Some industries (e.g., rail transport, food & beverage) have large economic size but only moderate tourism dependency.
+Others (e.g., air transport, vacation homes) show high tourism dependency despite smaller economic size.
 
-👉 Industry size and tourism dependency are largely independent.
-
-
+The correlation between GVA and tourism ratio is low (0.27), indicating a weak relationship.
+Industry size and tourism dependency are largely independent.
 
 ## Tourism-dependent industries
 The figure below shows the tourism ratio across major tourism-related industries.
@@ -37,13 +38,13 @@ Accommodation generates the largest share of value, followed by food services an
 ![Tourism ratio vs GVA](tourism_ratio_vs_gva.png)
 
 Accommodation
-→ The core of tourism demand, with the largest scale and level of dependence.
+→ The core of tourism demand, with the largest scale and highest dependency.
 
 Rail transport
 → A hybrid structure supported by both domestic and tourism demand.
 
 Air transport
-→ Highly dependent on tourism, but limited economic scale.
+→ Highly dependent on tourism, but with relatively limited economic scale.
 
 Water transport
-→ Specialized for tourism, but extremely small market size (outlier).
+→ Highly tourism-dependent but extremely small in scale (outlier).
